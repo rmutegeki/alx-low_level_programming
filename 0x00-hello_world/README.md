@@ -5,6 +5,7 @@ Project done during the **ALX Fullstack Software Engineering Program**. This pro
 ## Technologies
 * Scripts written in Bash 5.0.17(1)
 * C files are compiled using `gcc 9.4.0`
+* Linted using [Betty](https://github.com/holbertonschool/Betty)
 * Tested on Ubuntu 20.04 LTS
 
 ## Files
