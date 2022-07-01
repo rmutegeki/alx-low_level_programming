@@ -9,7 +9,7 @@ Project done during the **ALX Fullstack Software Engineering Program**. This pro
 * Tested on Ubuntu 20.04 LTS
 
 ## Files
-0-3, and 100 are Bash scripts while 4-6, and 101 are programs files written in C:
+0-3, and 100 are Bash scripts while 4-6, and 101 are program files written in C:
 
 | Filename | Description |
 | -------- | ----------- |
