@@ -1,4 +1,4 @@
-#Variables, if, else and while
+# Variables, if, else and while
 
 Project done during the **Full Stack Software Engineering Program** at **ALX**. It aims at learning about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in the **C language**.
 
