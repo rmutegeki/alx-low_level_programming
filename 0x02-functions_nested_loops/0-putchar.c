@@ -9,7 +9,7 @@
 int main(void)
 {
 	char text[] = "_putchar";
-	int size = sizeof(text) / sizeof(char);
+	int size = (sizeof(text) - 1) / sizeof(char);
 	int i;
 
 	for (i = 0; i < size; i++)
