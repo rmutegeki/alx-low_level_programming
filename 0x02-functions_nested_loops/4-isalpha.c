@@ -2,7 +2,7 @@
 
 /**
  * _isalpha - checks whether a character is alphanumeric
- * 
+ *
  * @c: an int representing the ASCII code for the character
  *
  * Return: 1 if c is a letter and 0 otherwise
