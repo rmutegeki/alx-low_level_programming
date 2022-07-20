@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * divisible - checks if a number is divisible by another except 1 and itself
+ * divisible - checks if a number is divisible by a number greater than 2and lest than n/2
  * @n: the number
  * @guess: the number we think can divide n without a remainder
  *
- * Return: 1 when n is divisible by guess, 0 otherwise.
+ * Return: 0 when n is divisible by guess, 1 when no divisor.
  */
 
 int divisible(int n, int guess)
