@@ -11,9 +11,9 @@
 int divisible(int n, int guess)
 {
 	if (guess > n / 2)
-		return (-1);
-	else if (n % guess == 0)
 		return (0);
+	else if (n % guess == 0)
+		return (1);
 	else
 		return (divisible(n, guess + 1));
 }
