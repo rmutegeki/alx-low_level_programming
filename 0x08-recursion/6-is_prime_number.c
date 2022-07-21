@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * divisible - checks if a number is divisible by a number 
+ * divisible - checks if a number is divisible by a number
  * greater than 2 and less than n/2
  * @n: the number
  * @guess: the number we think can divide n without a remainder
