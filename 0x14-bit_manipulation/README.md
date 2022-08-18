@@ -18,6 +18,6 @@ All of the following files are scripts and programs written in C:
 | `3-set_bit.c` | Sets the value of a bit to `1` at a given index |
 | `4-clear_bit.c` | Sets the value of a bit to `0` at a given index |
 | `5-flip_bits.c` | Returns the number of bits needed to flip to get from one number to another |
-| `100-get_endianess.c` | Checks the endianness |
+| `100-get_endianness.c` | Checks the endianness |
 | `101-password` | Script that contains the password of `crackme3` file |
 
